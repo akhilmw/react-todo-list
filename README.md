@@ -1,8 +1,47 @@
-# React + Vite
+# Todo List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple Todo List application to help you manage your tasks and stay organized. The application allows you to add, update, and delete tasks, helping you keep track of your to-dos effortlessly.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Add Tasks:** Easily add new tasks to your to-do list.
+   ![Add Tasks](/addTodo.png)
+  
+- **Update Tasks:** Easily update the tasks.
+    ![Update Tasks](/editTodoList.png)
+    ![Update Tasks](/edit2.png)
+    ![Update Tasks](/edit3.png)
+
+- **Delete Tasks:** Remove tasks that are completed or no longer relevant.
+    ![Delete Tasks](/delete1.png)
+    ![Delete Tasks](/delete2.png)
+
+## Getting Started Locally
+
+If you want to run the Todo List App locally, follow these steps:
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/akhilmw/react-todo-list.git
+2. **Navigate to the Project Directory:**
+   ```bash
+   cd react-todolist
+3. **npm run dev:**
+   Simply run this command and that is it!.
+   
+   
+## Technologies Used
+
+- React JS
+
+
+## Contributing
+
+Contributions are welcome! Whether you want to enhance the user interface, add new features, or fix bugs, feel free to open an issue or submit a pull request.
+
+
+## Live Demo
+
+Check out the live demo of the Todo List App: [Todo List App](https://reactodos-list.netlify.app/)
+
+Enjoy managing your tasks with the Todo List App!
